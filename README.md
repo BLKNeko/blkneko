@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Obrigado por visitar o meu perfil, eu deixo meu nome de usuário como "BLKNeko" por ser meu nick de muito tempo, e por estudar por meio de mods e jogos eu prefiro manter um pouco da minha privacidade. Porém caso esteja interessado em mim, meu perfil do LinkId está linkado no meu perfil do GitHub.
+Obrigado por visitar o meu perfil, eu deixo meu nome de usuário como "BLKNeko" por ser meu nick de muito tempo, e por estudar por meio de mods e jogos eu prefiro manter um pouco da minha privacidade. Porém caso esteja interessado em mim, meu perfil do LinkeId está linkado no meu perfil do GitHub.
 
 
 <!--
