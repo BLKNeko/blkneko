@@ -33,8 +33,7 @@ Obrigado por visitar o meu perfil, eu deixo meu nome de usuário como "BLKNeko" 
   <a href="https://github.com/BLKNeko/" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" target="_blank"></a> 
 </div>
 
-
-![snake gif](https://github.com/blkneko/blkneko/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/blkneko/blkneko/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 ![snake gif](https://github.com/blkneko/blkneko/blob/output/github-contribution-grid-snake.svg)
